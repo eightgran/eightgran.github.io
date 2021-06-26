@@ -1,0 +1,2 @@
+(self.webpackChunkwebsite_gatsby=self.webpackChunkwebsite_gatsby||[]).push([[853],{7744:function(e,t,n){"use strict";n.r(t);var l=n(7294),s=n(7264),c=n(7487);t.default=function(){return l.createElement(s.Z,null,l.createElement(c.Z,{title:"Projects"}),l.createElement("h1",null,"projects"))}}}]);
+//# sourceMappingURL=component---src-pages-projects-js-c34e8a6fd0f437290337.js.map

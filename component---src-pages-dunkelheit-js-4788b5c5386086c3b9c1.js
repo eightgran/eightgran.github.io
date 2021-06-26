@@ -1,0 +1,2 @@
+(self.webpackChunkwebsite_gatsby=self.webpackChunkwebsite_gatsby||[]).push([[325],{1149:function(e,t,n){"use strict";n.r(t);var l=n(7294),u=n(7264),a=n(7487);t.default=function(){return l.createElement(u.Z,null,l.createElement(a.Z,{title:"Dunkelheit"}),l.createElement("h1",null,"dunkelheit"))}}}]);
+//# sourceMappingURL=component---src-pages-dunkelheit-js-4788b5c5386086c3b9c1.js.map
