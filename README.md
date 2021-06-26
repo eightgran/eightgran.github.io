@@ -1,24 +1,8 @@
-<p align="center">
-  <a href="https://github.com/eightgran/website-gatsby">
-    <img alt="Profile" src="src/assets/images/Icon-256.png" width=120 />
-  </a>
-</p>
-
 <h1 align="center">
   eightgran's personal website
 </h1>
 
 This is my personal website built with Gatsby and React.
-
-## Screenshots
-
-<p>Desktop View</p>
-<p align="center">
-    <img alt="Profile" src="src/assets/screenshots/gatsby-website-screenshot-1.jpg" />
-</p>
-<p>Mobile View with Custom Drawer</p>
-    <img alt="Profile" src="src/assets/screenshots/gatsby-website-screenshot-2.jpg"  width=49%/>
-    <img alt="Profile" src="src/assets/screenshots/gatsby-website-screenshot-3.jpg" width=49%/>
 
 ## Dependencies
 
